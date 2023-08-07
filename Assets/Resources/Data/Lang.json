@@ -1,0 +1,14 @@
+{
+  "en": {
+    "continue": "Continue",
+    "levels": "Levels",
+    "lang": "Language",
+    "quit": "Exit"
+  },
+  "ru": {
+    "continue": "Продолжить",
+    "levels": "Уровни",
+    "lang": "Язык",
+    "quit": "Выйти"
+  }
+}
